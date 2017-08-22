@@ -1,0 +1,18 @@
+p {
+  font-weight: bold;
+  color: green;
+}
+
+a:hover {
+  color: magenta;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: bold;
+}
+
+img {
+  display: inline-block;
+  width: 5%;
+}
